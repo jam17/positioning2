@@ -1,0 +1,23 @@
+.calipso{
+	background-color:blue;
+	position: static;
+	width: 500px;
+	height: 500px;
+}
+.verde{
+	background-color: green;
+	position: absolute;
+	height: 250px;
+	width: 250px;
+	top:132px;
+	left:132px;
+}
+
+.negra{
+	background-color: black;
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 125px;
+	height: 125px;
+}
